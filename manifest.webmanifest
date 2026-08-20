@@ -1,0 +1,19 @@
+{
+  "name": "轻账本 · 个人财务记账",
+  "short_name": "轻账本",
+  "description": "打开即用、10秒记一笔的个人财务记账工具，数据只存在你的浏览器里。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF8FA",
+  "theme_color": "#FF6F91",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

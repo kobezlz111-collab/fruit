@@ -1,0 +1,19 @@
+# 本地开发工具配置（个人本地文件，不入库）
+.claude/settings.local.json
+.claude/
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+
+# 操作系统垃圾文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# 日志与临时文件
+*.log
+*.tmp
+~$*
